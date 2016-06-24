@@ -27,6 +27,9 @@ dependencies {
     compile 'com.google.firebase:firebase-core:9.0.2'     //Add Firebase-core
     compile 'com.google.firebase:firebase-crash:9.0.2'    //Add Firebase-crash
     compile 'com.google.firebase:firebase-config:9.0.2'   //Add Firebase-Remote Config
+    compile 'com.google.firebase:firebase-storage:9.0.2'  //Add Firebase-Storage
+    compile 'com.google.firebase:firebase-auth:9.0.2'     //Add Firebase-Auth
+    compile 'com.google.firebase:firebase-messaging:9.0.2' //Add Firebase-Message
 }
 
 apply plugin: 'com.google.gms.google-services' //Add Firebase
